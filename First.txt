@@ -1,1 +1,3 @@
 Am learning how to use Git and Git Hub
+Git Class
+Making changes to the file
